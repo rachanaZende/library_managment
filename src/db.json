@@ -1,0 +1,32 @@
+{
+  "bookList": [
+    {
+      "btitle": "ignited minds",
+      "bauther": "A.P.J abdul kalam",
+      "bpublication": "2002",
+      "bprice": "150/-",
+      "id": 2
+    },
+    {
+      "btitle": "wings of fire",
+      "bauther": "A.P.J abdul kalam",
+      "bpublication": "1999",
+      "bprice": "200/-",
+      "id": 3
+    },
+    {
+      "btitle": "ignited minds",
+      "bauther": "APJ abdul kalam",
+      "bpublication": "1999",
+      "bprice": "150/-",
+      "id": 4
+    },
+    {
+      "btitle": "two states",
+      "bauther": "chetan bhagat",
+      "bpublication": "2004",
+      "bprice": "260",
+      "id": 5
+    }
+  ]
+}
